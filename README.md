@@ -71,5 +71,3 @@ Détail dans [les versions](docs/07-versions.md).
 - Pas de vente hors ligne.
 - Aucune certification de logiciel de caisse : c'est un outil de gestion interne.
 - Les parts viennent d'être mises en ligne, le retour du patron est attendu.
-
-Développé avec l'aide de Claude Code : le besoin, les choix et les validations sur les appareils du salon viennent de moi et du patron.
